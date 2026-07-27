@@ -1,3 +1,126 @@
+
+# Daily Stand-up Meeting Script
+
+## Characters
+
+-   **Suraj** -- Team Lead (You)
+-   **Rahul** -- Operations Executive
+-   **Anita** -- Coordinator
+-   **Vikram** -- Support Executive
+-   **Emma** -- English Coach
+
+## Opening
+
+### Suraj
+
+Good morning, everyone.
+
+Thank you for joining today's stand-up meeting.
+
+This meeting will take about fifteen minutes.
+
+Today's agenda: - Yesterday's work - Today's priorities - Blockers -
+Support needed
+
+Can everyone hear me clearly?
+
+### Rahul
+
+Yes, loud and clear.
+
+### Anita
+
+Good morning. Ready to start.
+
+### Vikram
+
+Yes. Let's begin.
+
+## Yesterday's Work
+
+### Suraj
+
+Rahul, could you start with yesterday's update?
+
+### Rahul
+
+I completed the shipment report. I spoke with two vendors. I couldn't
+finish the inventory check. I'll complete it today.
+
+### Suraj
+
+Thank you. Good progress.
+
+## Today's Plan
+
+### Suraj
+
+Anita, what are your priorities today?
+
+### Anita
+
+I have to prepare the weekly report. I may also help Rahul with
+documentation.
+
+### Suraj
+
+Great. Please update the tracker before lunch.
+
+## Blockers
+
+### Suraj
+
+Vikram, do you have any blockers?
+
+### Vikram
+
+Yes. The printer isn't working. We might have to replace it if repairs
+fail.
+
+### Suraj
+
+Please keep us updated.
+
+## Support
+
+### Suraj
+
+Does anyone need help today?
+
+### Rahul
+
+Could someone review my report?
+
+### Anita
+
+Yes, I can help.
+
+### Suraj
+
+Thank you.
+
+## Closing
+
+### Suraj
+
+Today's action items: - Rahul will finish the inventory check. - Anita
+will prepare the weekly report. - Vikram will resolve the printer
+issue. - Everyone should update the tracker before the end of the day.
+
+Thank you, everyone. Have a productive day!
+
+## Emma's Grammar Tips
+
+-   ✅ I can send it.
+-   ✅ We should wait.
+-   ✅ He doesn't know.
+
+## Pronunciation Practice
+
+Priority Productive Inventory Documentation Update Progress Schedule
+Completed Support Responsibility
+
+
 # Interview Practice Script
 
 ## Characters
